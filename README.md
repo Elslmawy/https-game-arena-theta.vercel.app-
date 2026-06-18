@@ -2,7 +2,7 @@
 
 A sleek, modern responsive gaming showcase interface inspired by high-end dark esports aesthetics. This project focuses on a clean Bootstrap 5 structure, dynamic multi-item carousels, and advanced, micro-optimized layout configurations.
 
-🚀 **Live Demo:** [[Live Preview](https://MohamedTalatElslmawy.github.io/gaming-platform-ui/)](https://elslmawy.github.io/https-game-arena-theta.vercel.app-/)
+🚀 **Live Demo:** [[Live Preview]([https://MohamedTalatElslmawy.github.io/gaming-platform-ui/](https://elslmawy.github.io/https-game-arena-theta.vercel.app-/))]
 
 ---
 
